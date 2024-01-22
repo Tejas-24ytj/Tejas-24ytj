@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="github-header-image (1).png" alt="Banner Image" style="max-height: 300px; width: 100%;" />
+</p>
+
 <h1 align="center">Hi 👋, I'm Tejas Lamkhade</h1>
 <h3 align="center">A passionate Cloud developer and Devops enthusiast from India</h3>
 
