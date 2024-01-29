@@ -11,7 +11,7 @@
 
 - 🔭 I’m currently working on **Golang Projects**
 
-- 🌱 I’m currently learning **Golang, Ansible**
+- 🌱 I’m currently learning **Golang, Terraform**
 
 - 👯 I’m looking to collaborate on **Docker, Kubernetes**
 
