@@ -9,7 +9,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tejas-24ytj" alt="tejas-24ytj" /></a> </p>
 
-- 🔭 I’m currently working on **Golang Projects**
+- 🔭 I’m currently working on **Opensource Projects**
 
 - 🌱 I’m currently learning **Golang, Terraform**
 
